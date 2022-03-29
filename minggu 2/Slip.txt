@@ -1,0 +1,16 @@
+
+	   RUMAH MAKAN
+
+------------------------------------------
+2 Ayam Geprek	= Rp42000
+3 Ayam Goreng	= Rp51000
+1 Udang Goreng	= Rp19000
+0 Cumi Goreng	= Rp0
+0 Ayam Bakar	= Rp0
+------------------------------------------
+				Ongkir = Rp25000
+				Subtotal =Rp112000
+				disc = ongkir -5000 + 15%
+
+------------------------------------------
+						TOTAL = 115200
